@@ -1,5 +1,32 @@
 # Comercio-AyZ-V1.0
 
+
+
+La **división de trabajo** en el desarrollo de una página web es crucial para lograr un proyecto eficiente y bien organizado. Aquí tienes algunas recomendaciones para dividir las tareas de manera efectiva:
+
+1. **Planificación conjunta**: Antes de comenzar, reúnanse y discutan los objetivos del sitio web, los requisitos y las funcionalidades. Esto ayudará a establecer una visión compartida y a definir las tareas necesarias.
+
+2. **Identificación de habilidades**: Evalúen las habilidades y conocimientos de cada miembro del equipo. ¿Alguien tiene experiencia en diseño, mientras que otro se siente más cómodo con la programación? Aprovechen estas fortalezas para asignar tareas adecuadas.
+
+3. **División por áreas funcionales**:
+   - **Diseño**: Un miembro puede encargarse del diseño visual, la paleta de colores, las tipografías y los elementos gráficos.
+   - **Desarrollo**: El otro miembro puede trabajar en la estructura HTML, la programación (usando lenguajes como HTML, CSS y JavaScript), la interacción con bases de datos y la implementación de funcionalidades.
+
+4. **Colaboración constante**: Aunque trabajen en áreas diferentes, mantengan una comunicación fluida. Revisen el progreso, compartan ideas y resuelvan problemas juntos.
+
+5. **Control de versiones**: Utilicen herramientas como Git para gestionar el código fuente. Esto les permitirá trabajar en paralelo sin afectar el trabajo del otro.
+
+6. **Pruebas y revisión**: Ambos deben participar en las pruebas del sitio web. Verifiquen que todo funcione correctamente y realicen ajustes según sea necesario.
+
+7. **Documentación**: Documenten su trabajo. Esto facilitará futuras actualizaciones y permitirá que otros miembros del equipo comprendan el proyecto.
+
+Recuerden que la **cooperación** y la **comunicación** son clave para el éxito. ¡Buena suerte con su proyecto! 😊
+
+Si desean más detalles sobre la estructura de una página web en HTML, pueden consultar [este artículo](https://www.byronvargas.com/web/como-dividir-una-pagina-en-html/) que explica cómo dividir una página utilizando etiquetas HTML como `<header>`, `<nav>`, `<main>` y más¹.²³⁴⁵
+
+
+
+
 Primeros pasos:
 
 Instalar python
